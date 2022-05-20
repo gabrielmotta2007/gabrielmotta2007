@@ -3,7 +3,7 @@
 - 👀 meu email de contato é gabrielmotta@gmail.com.br
 - 🌱 eu estou interessado em aprender progamar novas linguagens.
 - 💞️ eu estou aprendendo a progamar recentemente a linguagem de JavaScrip e Scratch
-- 
+- ![Scratch]https://ing.shields.io/badge/Scratch-4097FF?style=for-the-badgelogo=ScratchlogoColar=white)
 
 <!---
 gabrielmotta2007/gabrielmotta2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
